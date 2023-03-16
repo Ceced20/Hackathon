@@ -26,14 +26,18 @@ lalu ketik "pip install nltk"
 
 lalu ketik "py Hackathon.py"
 
-aksi tersebut bisa di lakukan di terminal Pycharm, CMD, Terminal Visual Code studio
+aksi tersebut bisa di lakukan di terminal Pycharm, CMD, Terminal Visual Code studio atau Dengan Click link Ini https://replit.com/@ShxttyGT/Cygnus?v=1 Anda bisa mencobanya tanpa harus mendownload apapun 
 
 
-Contoh Kerja Bot CygnusChat Di cmd
+Contoh Kerja Bot Cygnus Di cmd
 
 ![image](https://user-images.githubusercontent.com/122191670/225640176-708cad54-7b00-4347-b817-5fdcead78acf.png)
 
 
-Contoh Kerja Bot cygnus di Terminal Visual Code Studio
+Contoh Kerja Bot Cygnus di Terminal Visual Code Studio
 
 ![image](https://user-images.githubusercontent.com/122191670/225640857-6c083c15-8109-4eb9-9985-dbc82f58afdc.png)
+
+Contoh Kerja Bot Cygnus Di Replit
+
+![image](https://user-images.githubusercontent.com/122191670/225642564-37fc0a02-7cfd-4ae1-a1af-689b8cd3a4b6.png)
