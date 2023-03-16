@@ -30,8 +30,10 @@ aksi tersebut bisa di lakukan di terminal Pycharm, CMD, Terminal Visual Code stu
 
 
 Contoh Kerja Bot CygnusChat Di cmd
+
 ![image](https://user-images.githubusercontent.com/122191670/225640176-708cad54-7b00-4347-b817-5fdcead78acf.png)
 
 
-Contoh Kerja Boy cygnus di Terminal Visual Code Studio
+Contoh Kerja Bot cygnus di Terminal Visual Code Studio
+
 ![image](https://user-images.githubusercontent.com/122191670/225640857-6c083c15-8109-4eb9-9985-dbc82f58afdc.png)
